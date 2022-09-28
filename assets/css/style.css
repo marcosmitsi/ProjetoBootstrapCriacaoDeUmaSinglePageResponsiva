@@ -1,3 +1,21 @@
+.top-btn{
+
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.top-btn a{
+    height: 39px;
+    width: 37px;
+    text-align: center;
+    background: #1b1b1b;
+    display: block;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
 #accordion{
     margin-top: 20px;
 }
@@ -7,4 +25,23 @@
     padding-bottom: 20px;
     margin-bottom: 0px;
 
+}
+
+
+
+.contato-select{
+    margin-top: 20px;
+}
+
+.botao{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: rgb(60, 57, 57);
+    color: white;
+    padding: 20px;
 }
